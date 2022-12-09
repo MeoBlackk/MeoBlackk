@@ -11,5 +11,5 @@ Developer: Php, Objective-C, Swift và React Native.
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=MeoBlackk&show_icons=true&theme=dark)](https://github.com/MeoBlackk)
 
 ### Thông tin liên lạc
-- [Facebook](https://facebook.com/ChienBlack12).
+- [Facebook](https://facebook.com/MeoBlackk).
 - [Twitter](https://twitter.com/MeoBlackk).
